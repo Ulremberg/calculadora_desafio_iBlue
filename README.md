@@ -1,6 +1,6 @@
 # Desafio Calculadora Web
 
-O projeto é uma calculadora destinada à uma escola que usará com educandos do Ensino Fundamental I e II.
+O projeto é uma calculadora destinada à uma escola que usará com educandos do Ensino Fundamental I e II. O seu uso pode ser realizado em navegadores desktop e em dispositivos móveis como laptop, tablet e smartphone (tamanho da janela de visualização mínima: 360 x 740)
 
 Projeto desenvolvido durante o **Programa de Estágio da [IBlue Consulting](https://www.iblueconsulting.com.br/)**.
 
