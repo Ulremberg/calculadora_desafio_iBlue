@@ -33,6 +33,7 @@ Deve-se iniciar o servidor no backend para só então iniciar o serviço no fron
 #### Teste
 - ```npm test```
 ### Frontend
+- ```npm i```
 - ```npm run serve```
 
 
