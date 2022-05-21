@@ -28,12 +28,12 @@ Projeto desenvolvido durante o **Programa de Estágio da [IBlue Consulting](http
 ## Uso
 Deve-se iniciar o servidor no backend para só então iniciar o serviço no front. Iniciar em terminais diferentes.
 ### Backend
-- npm i
-- npm start
+- ```npm i```
+- ```npm start```
 #### Teste
-- npm test
+- ```npm test```
 ### Frontend
-- npm run serve
+- ```npm run serve```
 
 
 
